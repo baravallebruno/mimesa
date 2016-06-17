@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="80px"
+	 height="80px" viewBox="0 0 80 80" enable-background="new 0 0 80 80" xml:space="preserve">
+<g id="Buscador">
+</g>
+<g id="section_1">
+	<path fill="#E14F38" d="M79.996,39.506c0.285,22.096-17.407,40.219-39.494,40.49C18.406,80.268,0.287,62.586,0.004,40.49
+		c-0.27-22.094,17.42-40.219,39.514-40.486C61.604-0.27,79.729,17.412,79.996,39.506z"/>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M51.069,48.849c-2.721,3.685-7.078,6.084-12.01,6.084c-8.246,0-14.932-6.686-14.932-14.933
+				s6.686-14.933,14.932-14.933c4.932,0,9.289,2.399,12.01,6.084h4.271c-3.141-5.767-9.254-9.679-16.281-9.679
+				c-10.232,0-18.527,8.295-18.527,18.527s8.295,18.527,18.527,18.527c7.027,0,13.143-3.912,16.281-9.679H51.069z"/>
+			<g>
+				<g>
+					<g>
+						<path fill="#FFFFFF" d="M39.062,41.244c-0.398,0-0.791-0.191-1.031-0.545l-5.254-7.743c-0.385-0.568-0.236-1.343,0.332-1.729
+							s1.344-0.236,1.727,0.33l5.254,7.743c0.387,0.569,0.238,1.343-0.33,1.729C39.546,41.175,39.302,41.244,39.062,41.244z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<path fill="#FFFFFF" d="M31.71,49.409c-0.133,0-0.268-0.044-0.377-0.137c-0.25-0.208-0.285-0.581-0.076-0.831l9.838-11.806
+							c0.209-0.251,0.582-0.286,0.832-0.075c0.25,0.209,0.283,0.581,0.076,0.83l-9.838,11.808
+							C32.048,49.338,31.88,49.409,31.71,49.409z"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				
+					<text transform="matrix(1.0373 0 0 1 46.0889 44.3691)" fill="#FFFFFF" font-family="'Exo-DemiBoldItalic'" font-size="12.5708">24</text>
+			</g>
+			<circle fill="#FFFFFF" cx="39.061" cy="40" r="2.489"/>
+		</g>
+	</g>
+</g>
+<g id="auxiliares" display="none">
+</g>
+<g id="Guias" display="none">
+</g>
+<g id="slider">
+</g>
+<g id="section_2">
+</g>
+<g id="botones">
+</g>
+<g id="footer">
+</g>
+<g id="navbar">
+</g>
+<g id="top_bar">
+</g>
+</svg>
